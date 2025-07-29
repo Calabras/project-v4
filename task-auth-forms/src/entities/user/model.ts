@@ -1,4 +1,3 @@
-// src/entities/user/model.ts
 import * as yup from 'yup';
 
 export interface User {
