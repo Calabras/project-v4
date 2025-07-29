@@ -1,4 +1,3 @@
-// src/entities/user/api.ts
 import { useMutation, useQuery, useQueryClient } from '@tanstack/react-query';
 import { api } from '@/shared/api/axios';
 import type { User } from './model';
